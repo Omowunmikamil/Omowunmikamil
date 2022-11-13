@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me: balikiskamil@gmail.com
-- 😄 Pronouns: Her/She
-- ⚡ Fun fact: Curious Cat!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a Curious Cat, I'm Always Curious!
 
