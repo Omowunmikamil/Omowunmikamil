@@ -14,7 +14,7 @@ I'm a student at the ALX SE, I have been focusing on Frontend development with H
 Willing to continuously grow and learn, eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 ### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmijuin&show_icons=true&theme=dracula)
+![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=dracula)
 
 ### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-<a href="https://app.daily.dev/Omowunmijuin"><img src="https://api.daily.dev/devcards/ece14ed401184fdeb8976b70c86891f1.png?r=yj5" width="400" alt="Omowunmi Kamiludeen's Dev Card"/></a>
+<a href="https://app.daily.dev/Omowunmikamil"><img src="https://api.daily.dev/devcards/ece14ed401184fdeb8976b70c86891f1.png?r=yj5" width="400" alt="Omowunmi Kamiludeen's Dev Card"/></a>
