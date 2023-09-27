@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omowunmi Kamiludeen</h1>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Entry-level+Junior+Frontend+Developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Entry-level+Frontend+Developer)](https://git.io/typing-svg)
 ![ezgif com-cropp](https://user-images.githubusercontent.com/42210784/233861858-822dc31b-5857-46b8-a037-804179e875f5.gif)
 
 I'm a student at the ALX SE and I'm also taking the meta front-end course on Coursera, and I've focused on front-end development with HTML, CSS, and Javascript. I also have a little Knowledge of Python & MySQL.
