@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omowunmi Kamiludeen</h1>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Junior+Frontend+Developer+)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Entry-level+Junior+Frontend+Developer+)](https://git.io/typing-svg)
 ![ezgif com-cropp](https://user-images.githubusercontent.com/42210784/233861858-822dc31b-5857-46b8-a037-804179e875f5.gif)
 
-I'm a student at the ALX SE, I have been focusing on Frontend development with HTML, CSS, and Javascript also with a little Knowledge in C, Python & Django, MySQL & SQLite, and Object-Oriented Programming.
+I'm a student at the ALX SE and I'm also taking the meta front-end course on Coursera, and I've focused on front-end development with HTML, CSS, and Javascript. I also have a little Knowledge of Python & MySQL.
 
-- Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
+- Currently, I'm looking for an opportunity to work as an Entry-level junior developer. 💻 🐘
 
 - How to contact me: [LinkedIn](https://www.linkedin.com/in/omowunmi-kamiludeen/) | [Email](mailto:balikiskamil@gmail.com) 📫
 
