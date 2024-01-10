@@ -23,7 +23,7 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
 
 <h4>Currently, I'm looking for an opportunity to work as an Entry-level junior developer. 💻 🐘</h4>
 
-- How to contact me: [LinkedIn](https://www.linkedin.com/in/omowunmi-kamiludeen/) | [Email](mailto:balikiskamil@gmail.com) 📫
+<!-- How to contact me: [LinkedIn](https://www.linkedin.com/in/omowunmi-kamiludeen/) | [Email](mailto:balikiskamil@gmail.com) 📫-->
 
 <!--Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
@@ -96,7 +96,7 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsonmasino&label=Profile%20views&color=0e75b6&style=flat" alt="johnsonmasino" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omowunmikamil&label=Profile%20views&color=0e75b6&style=flat" alt="Omowunmikamil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/masino_oficial" target="blank"><img src="https://img.shields.io/twitter/follow/masino_oficial?logo=twitter&style=for-the-badge" alt="masino_oficial" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Browser_Nerd" target="blank"><img src="https://img.shields.io/twitter/follow/Browser_Nerd?logo=twitter&style=for-the-badge" alt="Browser_Nerd" /></a> </p>
 
