@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omowunmi Kamiludeen</h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=I'm+a+diligent+Frontend+Developer+from+Nigeria.;Constantly+working+tirelessly+to+craft+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=I'm+a+diligent+Frontend+Developer+from+Nigeria.;Working+tirelessly+to+craft+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
 <!--<h4>My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji></h4>-->
