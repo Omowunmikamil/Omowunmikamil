@@ -35,40 +35,54 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
 - <a href="https://github.com/lexiscode/payment-api">Payment API</a>
 - <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>-->
 
-## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
+## My GitHub Stats <img src="https://img.icons8.com/nolan/26/github.png"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
+
+![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=tokyonight)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
+
+
+## Technologies <img src="https://img.icons8.com/nolan/25/computer.png"/>
 
 <kbd align="left">
-   <kbd>Front-end</kbd>
+   <kbd>Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30"/>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/> </a>
   </kbd>
   
-   <kbd>
+  <kbd>
     <kbd>Frameworks/Libraries</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-plain.svg" />
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="30"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="30"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> </a>
   </kbd>
   
   <kbd>
     <kbd>Databases</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30"/> </a>
   </kbd>
   
-   <kbd>
+  <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30"/> </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30"/> </a>
+    </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"/> </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30"/> </a>
   </kbd>
   
   <kbd>
@@ -80,23 +94,19 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
   </kbd>
   
    <kbd>
-   <kbd>VM</kbd>
+   <kbd>Local development</kbd>
     <br>
     <br>
-    <img width="30px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
+    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="30"/> </a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vitejs" width="30"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30"/> </a>
   </kbd>
   <br/>
   <br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
-
-### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=tokyonight)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omowunmikamil&label=Profile%20views&color=0e75b6&style=flat" alt="Omowunmikamil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Browser_Nerd" target="blank"><img src="https://img.shields.io/twitter/follow/Browser_Nerd?logo=twitter&style=for-the-badge" alt="Browser_Nerd" /></a> </p>
 
+## Connect with me <img src="https://img.icons8.com/nolan/25/computer.png"/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omowunmi-kamiludeen/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balikiskamil@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Browser_Nerd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/browsernerd/) [![stackoverflow](https://img.shields.io/badge/stackoverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19475983/omowunmi-kamiludeen)
