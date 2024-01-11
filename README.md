@@ -13,7 +13,7 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
 
 - I’m currently  **Mastering Web development and application** 🌱
 
-- I’m looking to collaborate on **Python, SQL, DevOps** 👯
+- I’m looking to collaborate on **HTML, CSS, JavaScript** 👯
 
 - Ask me about **HTML, CSS, Javascript, C, MYSQL, PYTHON, DEVOPS** 💬
 
