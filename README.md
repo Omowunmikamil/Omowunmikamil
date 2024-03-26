@@ -27,21 +27,24 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
 
 <!--Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
-- <a href="https://github.com/lexiscode/news_portal-app">News Portal App</a>
-- <a href="https://github.com/lexiscode/e-learning-app">Online Learning App</a>
-- <a href="https://github.com/lexiscode/online_store-app">Online Shop App</a>
-- <a href="https://github.com/lexiscode/estate-management-system">RealEstate Marketplace with Admin Panel</a>
-- <a href="https://github.com/lexiscode/blog-posts-api">Blog Posts API</a>
-- <a href="https://github.com/lexiscode/payment-api">Payment API</a>
-- <a href="https://github.com/lexiscode/students_management-app">Student Management System</a>-->
+- <a href="https://github.com/Omowunmikamil/QR-scanner">QR Scanner</a>
+- <a href="https://github.com/Omowunmikamil/---"></a>
+- <a href="https://github.com/Omowunmikamil/---"></a>
+- <a href="https://github.com/Omowunmikamil/---"></a>
+- <a href="https://github.com/Omowunmikamil/---"></a>
+- <a href="https://github.com/Omowunmikamil/---"></a>
+- <a href="https://github.com/Omowunmikamil/---"></a>-->
 
 ## My GitHub Stats <img src="https://img.icons8.com/nolan/26/github.png"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
 
 ![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=tokyonight)
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@BrowserNerd/30-nites-of-code)  
+  ![@BrowserNerd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BrowserNerd)
 
 
 ## Technologies <img src="https://img.icons8.com/nolan/25/computer.png"/>
