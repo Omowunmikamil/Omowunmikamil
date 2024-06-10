@@ -1,27 +1,21 @@
-<h1 align="center">Hi 👋, I'm Omowunmi Kamiludeen</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Omowunmi Kamiludeen
+========================================================================================================================================
 
-<h3 align="center">
+<h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=I'm+a+diligent+Frontend+Developer+from+Nigeria.;Working+tirelessly+to+craft+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
-<!--<h4>My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji></h4>-->
-<a href="https://app.daily.dev/Omowunmikamil"><img align="right" src="https://api.daily.dev/devcards/ece14ed401184fdeb8976b70c86891f1.png?r=yj5" width="400" alt="Omowunmi Kamiludeen's Dev Card"/></a>
+I design captivating user experiences that grab attention and drive engagement. Driven by a love for coffee and an insatiable curiosity, I am passionate about shaping the digital future. With each pixel meticulously placed, I aim to create intuitive and memorable interactions. Let's build something extraordinary together.
 
-I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, and I've focused on front-end development with HTML, CSS, and Javascript. I also have a little Knowledge of Python, DevOps & MySQL. Willing to continuously grow and learn, eager to write and maintain good-quality code while working in a friendly environment with a dedicated team. 🤓 🐘
+- 🔭 I’m currently working on **Frontend Development**.
+- 🌱 I’m currently  **Mastering the art of Web development and application**.
+- 🤝 I’m open to collaborate on **Open Source Projects**.
+- 🧠 I'm learning React, Python, and Node JS.
+- 📌 Current location: Berger, Lagos Nigeria.
+- ⚡ **Cats are magical!**.
 
-- I’m currently working on **Frontend Development** 🔭
 
-- I’m currently  **Mastering Web development and application** 🌱
-
-- I’m looking to collaborate on **HTML, CSS, JavaScript** 👯
-
-- Ask me about **HTML, CSS, Javascript, C, MYSQL, PYTHON, DEVOPS** 💬
-
-- **I'm a curious cat** ⚡
-
-- Current location: Berger, Lagos State 📌
-
-<h4>Currently, I'm looking for an opportunity to work as an Entry-level junior developer. 💻 🐘</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omowunmikamil&label=Profile%20views&color=0e75b6&style=flat" alt="Omowunmikamil" /> </p>
 
 <!-- How to contact me: [LinkedIn](https://www.linkedin.com/in/omowunmi-kamiludeen/) | [Email](mailto:balikiskamil@gmail.com) 📫-->
 
@@ -36,16 +30,11 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
 - <a href="https://github.com/Omowunmikamil/---"></a>-->
 
 ## My GitHub Stats <img src="https://img.icons8.com/nolan/26/github.png"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
 
 ![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=tokyonight)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@BrowserNerd/30-nites-of-code)  
-  ![@BrowserNerd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BrowserNerd)
-
 
 ## Technologies <img src="https://img.icons8.com/nolan/25/computer.png"/>
 
@@ -107,9 +96,18 @@ I'm an ALX SE Alumni and I'm also taking the meta front-end course on Coursera, 
   <br/>
   <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omowunmikamil&label=Profile%20views&color=0e75b6&style=flat" alt="Omowunmikamil" /> </p>
+[![wakatime](https://wakatime.com/badge/user/018c6ec3-4dab-46f5-99f5-d622e0c09212.svg)](https://wakatime.com/@018c6ec3-4dab-46f5-99f5-d622e0c09212)
+[![Omowunmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omowunmi)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://twitter.com/Browser_Nerd" target="blank"><img src="https://img.shields.io/twitter/follow/Browser_Nerd?logo=twitter&style=for-the-badge" alt="Browser_Nerd" /></a> </p>
 
 ## Connect with me <img src="https://img.icons8.com/nolan/25/computer.png"/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omowunmi-kamiludeen/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balikiskamil@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Browser_Nerd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/browsernerd/) [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/BrowserNerd) [![Stackoverflow](https://img.shields.io/badge/stackoverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19475983/omowunmi-kamiludeen)
+
+<!--<h4>My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji></h4>-->
+<!--a href="https://app.daily.dev/Omowunmikamil"><img align="right" src="https://api.daily.dev/devcards/ece14ed401184fdeb8976b70c86891f1.png?r=yj5" width="400" alt="Omowunmi Kamiludeen's Dev Card"/></a-->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@BrowserNerd/30-nites-of-code)  
+  ![@BrowserNerd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BrowserNerd)
+
+  
