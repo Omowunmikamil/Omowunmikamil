@@ -34,7 +34,7 @@ I design captivating user experiences that grab attention and drive engagement. 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
 
-![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=tokyonight)
+![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=radical)
 
 ## Technologies <img src="https://img.icons8.com/nolan/25/computer.png"/>
 
