@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=I'm+a+diligent+Frontend+Developer+from+Nigeria.;Working+tirelessly+to+craft+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
-I design captivating user experiences that grab attention and drive engagement. Driven by a love for coffee and an insatiable curiosity, I am passionate about shaping the digital future. With each pixel meticulously placed, I aim to create intuitive and memorable interactions. Let's build something extraordinary together.
+I design captivating user experiences that grab attention and drive engagement. Driven by a love for coffee and an insatiable curiosity, I am passionate about shaping the digital future. I aim to create intuitive and memorable interactions with each pixel meticulously placed. Let's build something extraordinary together.
 
 - 🔭 I’m currently working on **Frontend Development**.
 - 🌱 I’m currently  **Mastering the art of Web development and application**.
@@ -35,6 +35,13 @@ I design captivating user experiences that grab attention and drive engagement. 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
 
 ![Omowunmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omowunmikamil&show_icons=true&theme=radical)
+
+[![wakatime](https://wakatime.com/badge/user/018c6ec3-4dab-46f5-99f5-d622e0c09212.svg)](https://wakatime.com/@018c6ec3-4dab-46f5-99f5-d622e0c09212)
+
+[![Omowunmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omowunmi&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://github-readme-stats.vercel.app/api/wakatime?username=khelthos&layuout=compact&theme=synthwave&v=2 -->
+
 
 ## Technologies <img src="https://img.icons8.com/nolan/25/computer.png"/>
 
@@ -95,10 +102,6 @@ I design captivating user experiences that grab attention and drive engagement. 
   </kbd>
   <br/>
   <br/>
-
-[![wakatime](https://wakatime.com/badge/user/018c6ec3-4dab-46f5-99f5-d622e0c09212.svg)](https://wakatime.com/@018c6ec3-4dab-46f5-99f5-d622e0c09212)
-[![Omowunmi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Omowunmi)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Connect with me <img src="https://img.icons8.com/nolan/25/computer.png"/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omowunmi-kamiludeen/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balikiskamil@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Browser_Nerd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/browsernerd/) [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/BrowserNerd) [![Stackoverflow](https://img.shields.io/badge/stackoverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19475983/omowunmi-kamiludeen)
