@@ -10,7 +10,7 @@ I design captivating user experiences that grab attention and drive engagement. 
 - 🔭 I’m currently working on **Frontend Development**.
 - 🌱 I’m currently  **Mastering the art of Web development and application**.
 - 🤝 I’m open to collaborate on **Open Source Projects**.
-- 🧠 I'm learning React.
+- 🧠 I'm learning Reactjs.
 - 📌 Current location: Berger, Lagos Nigeria.
 - ⚡ **Cats are magical!**.
 
