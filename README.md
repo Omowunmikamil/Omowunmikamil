@@ -17,7 +17,7 @@ I design captivating user experiences that grab attention and drive engagement. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omowunmikamil&label=Profile%20views&color=0e75b6&style=flat" alt="Omowunmikamil" /> </p>
 
-[My Portfolio](https://i-am-omowunmivercel.app/)
+[My Portfolio](https://i-am-omowunmi.vercel.app/)
 
 
 <!-- How to contact me: [LinkedIn](https://www.linkedin.com/in/omowunmi-kamiludeen/) | [Email](mailto:balikiskamil@gmail.com) 📫-->
