@@ -33,7 +33,9 @@ I design captivating user experiences that grab attention and drive engagement. 
 - <a href="https://github.com/Omowunmikamil/---"></a>-->
 
 ## My GitHub Stats <img src="https://img.icons8.com/nolan/26/github.png"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Omowunmikamil&theme=radical&margin-w=6)
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omowunmikamil" alt="Omowunmikamill" /></a> </p-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omowunmikamil&layout=compact&theme=dark&hide_border=false" /></p>
 
